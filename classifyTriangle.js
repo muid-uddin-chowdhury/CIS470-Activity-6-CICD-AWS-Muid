@@ -1,4 +1,4 @@
-//testing for cis-470-activity-6-muid
+//testing for in class activity cis-470-activity-6-muid
 
 function classifyTriangle(a, b, c) {
     // Check input conditions C1, C2, and C3
