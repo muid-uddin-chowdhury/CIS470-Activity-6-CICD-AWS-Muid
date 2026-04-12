@@ -1,3 +1,5 @@
+//testing for cis-470-activity-6
+
 function classifyTriangle(a, b, c) {
     // Check input conditions C1, C2, and C3
     if (a < 1 || a > 200 || b < 1 || b > 200 || c < 1 || c > 200) {
